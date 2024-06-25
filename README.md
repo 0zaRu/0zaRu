@@ -22,13 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
-      src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="" height="40" width="40" /></a>
   <a href="https://www.instagram.com/albertorompeventanas/" target="blank"><img align="center"
       src="https://th.bing.com/th/id/R.735dda68880a385ce8cc5be4f3c5fcd6?rik=qSxRw2lCZYy9Mw&riu=http%3a%2f%2fpngimg.com%2fuploads%2finstagram%2finstagram_PNG11.png&ehk=QVCbfkCKi8pJLF08bRkS%2fLeMqLTnJQf402WRaIdN6jE%3d&risl=&pid=ImgRaw&r=0"
-      alt="" height="40" width="40" /></a>
-  <a href="aruberuto03@gmail.com" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="" height="40" width="40" /></a>
 
 
