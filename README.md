@@ -33,6 +33,12 @@
 
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h2 align="center">Languages and Tools</h2>
 <table border="0">
@@ -42,8 +48,6 @@
     <td align="center"><img src="https://i1.wp.com/filipjaniszewski.com/wp-content/uploads/2016/12/C-PNG-Clipart.png?fit=550%2C380" alt="" width="100"></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="" width="130"></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="" width=""></td>
-  </tr>
-  <tr>
   </tr>
 </table>
 
