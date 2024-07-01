@@ -12,7 +12,7 @@
 <!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gif" /></p> -->
 
 
-- ‍💻 Working in AIr Institute, developing machine learning, deep learning and data processing.
+- ‍💻 Working in AIr Institute, developing backend, machine, deep learning and data processing.
 
 - 🌱 I’m currently learning Web Development and other programming languages.
 
