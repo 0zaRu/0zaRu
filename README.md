@@ -41,7 +41,7 @@
 <br>
 
 <h2 align="center">Languages and Tools</h2>
-<table border="0">
+<table border="0" bgcolor="white">
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java"></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="" width=""></td>
