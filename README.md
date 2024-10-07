@@ -14,7 +14,7 @@
 
 - ‍💻 Working at the AIr Institute, focusing on backend development, machine learning, deep learning, and data processing, as well as utilizing Azure OpenAI and speech services in Python and JavaScript with Node.
 
-- 🌱 I’m currently learning Web Development and other programming languages.
+- 🌱 I’m currently learning web development and other programming languages, while also expanding my knowledge of machine learning and deep learning.
 
 - 📫 You can reach me in: **aruberuto03@gmail.com**.
 
