@@ -103,18 +103,6 @@
   </tr>
 </table>
 
-
-<br>
-<h3 align="left">IDEs</h3>
-<table border="0">
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.andreszsogon.com/wp-content/uploads/logo_apache_netbeans_cordova-300x94.png" alt="" width="180"></td>
-    <td align="center"><img src="https://th.bing.com/th/id/R.99f307973d55dadbdd26425b722e5430?rik=13HLP0n%2f5OVc0w&riu=http%3a%2f%2feclipse.org%2forg%2fartwork%2fimages%2feclipse_ide_logo.png&ehk=IF9%2bgPNa68PTjpSC3ngwZBPnRE9T%2bQDHjFhspI54zCs%3d&risl=&pid=ImgRaw&r=0" alt="" width="110"></td>
-  </tr>
-</table>
-
 <br>
 <h3 align="left">Machine Learning and Deep Learning</h3>
 <table border="0">
