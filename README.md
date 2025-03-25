@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alberto</h1>
-<h3 align="center">AIr Institute Developer.</h3>
+<h3 align="center">Bisite research group Developer.</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 <!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gif" /></p> -->
 
 
-- ‍💻 Working at the AIr Institute, focusing on backend development, machine learning, deep learning, and data processing, as well as utilizing Azure OpenAI and speech services in Python and JavaScript with Node.
+- ‍💻 Working at the bisite research group, focusing on backend development, machine learning, deep learning, and data processing, as well as utilizing Azure OpenAI and speech services in Python and JavaScript with Node.
 
 - 🌱 I’m currently learning web development and other programming languages, while also expanding my knowledge of machine learning and deep learning.
 
