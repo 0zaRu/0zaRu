@@ -1,135 +1,77 @@
-<h1 align="center">Hi 👋, I'm Alberto</h1>
-<h3 align="center">Bisite research group Developer.</h3>
+# Hi there, I'm Alberto Rodríguez 👋
 
-<br>
+### Software Engineer | Backend & AI Specialist
 
-<!-- <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="adam-pw" /> 
-  </p>
+I am a Software Engineer specialized in the convergence of **Backend Architecture**, **Cloud Infrastructure**, and **Artificial Intelligence**. Currently working at **BISITE Research Group**, developing GenAI solutions (RAG, LLMs) and scalable systems.
 
-<br>
--->
-<!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gif" /></p> -->
+My focus is on building robust software that solves complex problems, from real-time computer vision systems to autonomous agents using Tool Calling.
 
+---
 
-- ‍💻 Working at the bisite research group, focusing on backend development, machine learning, deep learning, and data processing, as well as utilizing Azure OpenAI and speech services in Python and JavaScript with Node.
+### 🛠️ Tech Stack & Tools
 
-- 🌱 I’m currently learning web development and other programming languages, while also expanding my knowledge of machine learning and deep learning.
+**Backend & Core**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-- 📫 You can reach me in: **aruberuto03@gmail.com**.
+**AI & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO_(Computer_Vision)-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG_(GenAI)-7209b7?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant_(Vector_DB)-D91F26?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-<br>
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/alberto-rodr%C3%ADguez-p%C3%A9rez-876083268/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/albertorompeventanas/" target="blank"><img align="center"
-      src="https://th.bing.com/th/id/R.735dda68880a385ce8cc5be4f3c5fcd6?rik=qSxRw2lCZYy9Mw&riu=http%3a%2f%2fpngimg.com%2fuploads%2finstagram%2finstagram_PNG11.png&ehk=QVCbfkCKi8pJLF08bRkS%2fLeMqLTnJQf402WRaIdN6jE%3d&risl=&pid=ImgRaw&r=0"
-      alt="" height="40" width="40" /></a>
+---
 
+### 🚀 Featured Projects
 
-<br>
-<br>
-<br>
-<br>
-<!-- <br>
-<br>
-<br> -->
-<br>
-<br>
-<br>
+#### ♟️ [Chessia - AI Powered Chess Engine](ENLACE_A_TU_REPO_CHESSIA)
+A desktop application developed in **Python** that combines a custom chess engine with **Machine Learning** for game analysis.
+* **Tech:** Python, ML, Probabilistic Analysis.
+* **Highlights:** Implementation of complete game logic and automated decision making.
 
-<h2 align="center">Languages and Tools</h2>
-<table border="0" style="background-color: white;">
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="" width=""></td>
-    <td align="center"><img src="https://i1.wp.com/filipjaniszewski.com/wp-content/uploads/2016/12/C-PNG-Clipart.png?fit=550%2C380" alt="" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="" width="130"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="" width=""></td>
-  </tr>
-</table>
+#### 👁️ [Object Proximity Detection (YOLO)](ENLACE_A_TU_REPO_OBJECT_PROXIMITY)
+Real-time safety system presented at **CV Projects Expo 2024**. It uses **YOLO** models to detect objects and calculate Euclidean distance to trigger safety alerts.
+* **Tech:** Python, YOLO, Computer Vision, NumPy.
+* **Highlights:** Real-time processing and custom alert thresholds.
 
-<br>
-<h3 align="left">Backend Tech</h3>
-<table border="0">
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="130"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="" width=""></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="" width=""></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="" width=""></td>
-  </tr>
-</table>
+---
 
-<br>
-<h3 align="left">Frontend Tech</h3>
-<table border="0">
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="" width=""></td>
-  </tr>
-</table>
+### 📊 GitHub Stats
 
-<br>
-<h3 align="left">DevOps, system and version control</h3>
-<table border="0">
-  <tr>
-    <td align="center"><img src="https://api.octoperf.com/doc/monitoring/create-connection/microsoft-windows/img/windows-logo.png" alt="" width="120"></td>
-    <td align="center"><img src="https://upload.vectorlogo.zone/logos/microsoft_powershell/images/1ba9f345-6513-4bef-a85e-4636d21b98b7.svg" alt="" width="80"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="" width="145"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="" width="100"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/giteaio/giteaio-ar21.svg" alt="" width="145"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="" width=""></td>
-  </tr>
-</table>
+<p align="left">
+<a href="https://github.com/0zaRu">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=0zaRu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide=contribs" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0zaRu&layout=compact&theme=tokyonight&hide=html,css" />
+</a>
+</p>
 
-<br>
-<h3 align="left">Machine Learning and Deep Learning</h3>
-<table border="0">
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://upload.vectorlogo.zone/logos/pydata_pandas/images/3379b038-0796-45fe-8467-3fba66c10b70.svg" alt="" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="" width=""></td>
-  </tr>
-</table>
-<br>
+---
 
+### 📫 Connect with me
 
-<!-- <h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+<p align="left">
+<a href="(https://www.linkedin.com/in/alberto-rodr%C3%ADguez-p%C3%A9rez-876083268/)" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alberto Rodríguez" />
+</a>
+<a href="mailto:aruberuto03@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
