@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend & AI Specialist
 
-I am a Software Engineer specialized in the convergence of **Backend Architecture**, **Cloud Infrastructure**, and **Artificial Intelligence**. Currently working at **BISITE Research Group**, developing GenAI solutions (RAG, LLMs) and scalable systems.
+I am a Software Engineer specialized in the convergence of **Backend Architecture**, **Cloud Infrastructure**, and **Artificial Intelligence**. Currently working at **AIR Institute**, developing GenAI solutions (RAG, LLMs) and scalable systems.
 
 My focus is on building robust software that solves complex problems, from real-time computer vision systems to autonomous agents using Tool Calling.
 
