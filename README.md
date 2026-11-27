@@ -70,10 +70,10 @@ Real-time safety system presented at **CV Projects Expo 2024**. It uses **YOLO**
 ### 📫 Connect with me
 
 <p align="left">
-<a href="(https://www.linkedin.com/in/alberto-rodr%C3%ADguez-p%C3%A9rez-876083268/)" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alberto Rodríguez" />
-</a>
-<a href="mailto:aruberuto03@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="https://www.linkedin.com/in/alberto-rodr%C3%ADguez-p%C3%A9rez-876083268/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aruberuto03@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
